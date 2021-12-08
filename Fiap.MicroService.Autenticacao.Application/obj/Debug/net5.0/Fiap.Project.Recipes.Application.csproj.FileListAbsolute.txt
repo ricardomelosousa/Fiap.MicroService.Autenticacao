@@ -1,0 +1,15 @@
+C:\Users\ricar\Source\Repos\Fiap.Project.Recipes\Fiap.Project.Recipes.Application\bin\Debug\net5.0\Fiap.Project.Recipes.Application.deps.json
+C:\Users\ricar\Source\Repos\Fiap.Project.Recipes\Fiap.Project.Recipes.Application\bin\Debug\net5.0\Fiap.Project.Recipes.Application.dll
+C:\Users\ricar\Source\Repos\Fiap.Project.Recipes\Fiap.Project.Recipes.Application\bin\Debug\net5.0\ref\Fiap.Project.Recipes.Application.dll
+C:\Users\ricar\Source\Repos\Fiap.Project.Recipes\Fiap.Project.Recipes.Application\bin\Debug\net5.0\Fiap.Project.Recipes.Application.pdb
+C:\Users\ricar\Source\Repos\Fiap.Project.Recipes\Fiap.Project.Recipes.Application\bin\Debug\net5.0\Fiap.Project.Recipes.Domain.dll
+C:\Users\ricar\Source\Repos\Fiap.Project.Recipes\Fiap.Project.Recipes.Application\bin\Debug\net5.0\Fiap.Project.Recipes.Domain.pdb
+C:\Users\ricar\Source\Repos\Fiap.Project.Recipes\Fiap.Project.Recipes.Application\obj\Debug\net5.0\Fiap.Project.Recipes.Application.csproj.AssemblyReference.cache
+C:\Users\ricar\Source\Repos\Fiap.Project.Recipes\Fiap.Project.Recipes.Application\obj\Debug\net5.0\Fiap.Project.Recipes.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\Source\Repos\Fiap.Project.Recipes\Fiap.Project.Recipes.Application\obj\Debug\net5.0\Fiap.Project.Recipes.Application.AssemblyInfoInputs.cache
+C:\Users\ricar\Source\Repos\Fiap.Project.Recipes\Fiap.Project.Recipes.Application\obj\Debug\net5.0\Fiap.Project.Recipes.Application.AssemblyInfo.cs
+C:\Users\ricar\Source\Repos\Fiap.Project.Recipes\Fiap.Project.Recipes.Application\obj\Debug\net5.0\Fiap.Project.Recipes.Application.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Source\Repos\Fiap.Project.Recipes\Fiap.Project.Recipes.Application\obj\Debug\net5.0\Fiap.Project.Recipes.Application.csproj.CopyComplete
+C:\Users\ricar\Source\Repos\Fiap.Project.Recipes\Fiap.Project.Recipes.Application\obj\Debug\net5.0\Fiap.Project.Recipes.Application.dll
+C:\Users\ricar\Source\Repos\Fiap.Project.Recipes\Fiap.Project.Recipes.Application\obj\Debug\net5.0\ref\Fiap.Project.Recipes.Application.dll
+C:\Users\ricar\Source\Repos\Fiap.Project.Recipes\Fiap.Project.Recipes.Application\obj\Debug\net5.0\Fiap.Project.Recipes.Application.pdb

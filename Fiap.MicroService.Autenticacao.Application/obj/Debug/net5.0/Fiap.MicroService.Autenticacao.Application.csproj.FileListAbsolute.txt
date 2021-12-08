@@ -1,0 +1,15 @@
+C:\Users\ricar\Source\Repos\Microservico fiap\Fiap.MicroService.Autenticacao.Application\bin\Debug\net5.0\Fiap.MicroService.Autenticacao.Application.deps.json
+C:\Users\ricar\Source\Repos\Microservico fiap\Fiap.MicroService.Autenticacao.Application\bin\Debug\net5.0\Fiap.MicroService.Autenticacao.Application.dll
+C:\Users\ricar\Source\Repos\Microservico fiap\Fiap.MicroService.Autenticacao.Application\bin\Debug\net5.0\ref\Fiap.MicroService.Autenticacao.Application.dll
+C:\Users\ricar\Source\Repos\Microservico fiap\Fiap.MicroService.Autenticacao.Application\bin\Debug\net5.0\Fiap.MicroService.Autenticacao.Application.pdb
+C:\Users\ricar\Source\Repos\Microservico fiap\Fiap.MicroService.Autenticacao.Application\bin\Debug\net5.0\Fiap.MicroService.Autenticacao.Domain.dll
+C:\Users\ricar\Source\Repos\Microservico fiap\Fiap.MicroService.Autenticacao.Application\bin\Debug\net5.0\Fiap.MicroService.Autenticacao.Domain.pdb
+C:\Users\ricar\Source\Repos\Microservico fiap\Fiap.MicroService.Autenticacao.Application\obj\Debug\net5.0\Fiap.MicroService.Autenticacao.Application.csproj.AssemblyReference.cache
+C:\Users\ricar\Source\Repos\Microservico fiap\Fiap.MicroService.Autenticacao.Application\obj\Debug\net5.0\Fiap.MicroService.Autenticacao.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\Source\Repos\Microservico fiap\Fiap.MicroService.Autenticacao.Application\obj\Debug\net5.0\Fiap.MicroService.Autenticacao.Application.AssemblyInfoInputs.cache
+C:\Users\ricar\Source\Repos\Microservico fiap\Fiap.MicroService.Autenticacao.Application\obj\Debug\net5.0\Fiap.MicroService.Autenticacao.Application.AssemblyInfo.cs
+C:\Users\ricar\Source\Repos\Microservico fiap\Fiap.MicroService.Autenticacao.Application\obj\Debug\net5.0\Fiap.MicroService.Autenticacao.Application.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Source\Repos\Microservico fiap\Fiap.MicroService.Autenticacao.Application\obj\Debug\net5.0\Fiap.MicroService.Autenticacao.Application.csproj.CopyComplete
+C:\Users\ricar\Source\Repos\Microservico fiap\Fiap.MicroService.Autenticacao.Application\obj\Debug\net5.0\Fiap.MicroService.Autenticacao.Application.dll
+C:\Users\ricar\Source\Repos\Microservico fiap\Fiap.MicroService.Autenticacao.Application\obj\Debug\net5.0\ref\Fiap.MicroService.Autenticacao.Application.dll
+C:\Users\ricar\Source\Repos\Microservico fiap\Fiap.MicroService.Autenticacao.Application\obj\Debug\net5.0\Fiap.MicroService.Autenticacao.Application.pdb

@@ -1,0 +1,14 @@
+C:\Users\ricar\Source\Repos\Fiap.Project.Recipes\Fiap.Project.Recipes.Api\obj\Debug\net5.0\Fiap.MicroService.Autenticacao.Api.csproj.AssemblyReference.cache
+C:\Users\ricar\Source\Repos\Fiap.Project.Recipes\Fiap.Project.Recipes.Api\obj\Debug\net5.0\Fiap.MicroService.Autenticacao.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\Source\Repos\Fiap.Project.Recipes\Fiap.Project.Recipes.Api\obj\Debug\net5.0\Fiap.MicroService.Autenticacao.Api.AssemblyInfoInputs.cache
+C:\Users\ricar\Source\Repos\Fiap.Project.Recipes\Fiap.Project.Recipes.Api\obj\Debug\net5.0\Fiap.MicroService.Autenticacao.Api.AssemblyInfo.cs
+C:\Users\ricar\Source\Repos\Fiap.Project.Recipes\Fiap.Project.Recipes.Api\obj\Debug\net5.0\Fiap.MicroService.Autenticacao.Api.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Source\Repos\Fiap.Project.Recipes\Fiap.Project.Recipes.Api\obj\Debug\net5.0\Fiap.MicroService.Autenticacao.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ricar\Source\Repos\Fiap.Project.Recipes\Fiap.Project.Recipes.Api\obj\Debug\net5.0\Fiap.MicroService.Autenticacao.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ricar\Source\Repos\Microservico fiap\Fiap.MicroService.Autenticacao.Api\obj\Debug\net5.0\Fiap.MicroService.Autenticacao.Api.csproj.AssemblyReference.cache
+C:\Users\ricar\Source\Repos\Microservico fiap\Fiap.MicroService.Autenticacao.Api\obj\Debug\net5.0\Fiap.MicroService.Autenticacao.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\Source\Repos\Microservico fiap\Fiap.MicroService.Autenticacao.Api\obj\Debug\net5.0\Fiap.MicroService.Autenticacao.Api.AssemblyInfoInputs.cache
+C:\Users\ricar\Source\Repos\Microservico fiap\Fiap.MicroService.Autenticacao.Api\obj\Debug\net5.0\Fiap.MicroService.Autenticacao.Api.AssemblyInfo.cs
+C:\Users\ricar\Source\Repos\Microservico fiap\Fiap.MicroService.Autenticacao.Api\obj\Debug\net5.0\Fiap.MicroService.Autenticacao.Api.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Source\Repos\Microservico fiap\Fiap.MicroService.Autenticacao.Api\obj\Debug\net5.0\Fiap.MicroService.Autenticacao.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ricar\Source\Repos\Microservico fiap\Fiap.MicroService.Autenticacao.Api\obj\Debug\net5.0\Fiap.MicroService.Autenticacao.Api.MvcApplicationPartsAssemblyInfo.cache

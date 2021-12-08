@@ -1,0 +1,12 @@
+C:\Users\ricar\Source\Repos\Microservico fiap\Fiap.MicroService.Autenticacao.Domain\bin\Debug\net5.0\Fiap.MicroService.Autenticacao.Domain.deps.json
+C:\Users\ricar\Source\Repos\Microservico fiap\Fiap.MicroService.Autenticacao.Domain\bin\Debug\net5.0\Fiap.MicroService.Autenticacao.Domain.dll
+C:\Users\ricar\Source\Repos\Microservico fiap\Fiap.MicroService.Autenticacao.Domain\bin\Debug\net5.0\ref\Fiap.MicroService.Autenticacao.Domain.dll
+C:\Users\ricar\Source\Repos\Microservico fiap\Fiap.MicroService.Autenticacao.Domain\bin\Debug\net5.0\Fiap.MicroService.Autenticacao.Domain.pdb
+C:\Users\ricar\Source\Repos\Microservico fiap\Fiap.MicroService.Autenticacao.Domain\obj\Debug\net5.0\Fiap.MicroService.Autenticacao.Domain.csproj.AssemblyReference.cache
+C:\Users\ricar\Source\Repos\Microservico fiap\Fiap.MicroService.Autenticacao.Domain\obj\Debug\net5.0\Fiap.MicroService.Autenticacao.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\Source\Repos\Microservico fiap\Fiap.MicroService.Autenticacao.Domain\obj\Debug\net5.0\Fiap.MicroService.Autenticacao.Domain.AssemblyInfoInputs.cache
+C:\Users\ricar\Source\Repos\Microservico fiap\Fiap.MicroService.Autenticacao.Domain\obj\Debug\net5.0\Fiap.MicroService.Autenticacao.Domain.AssemblyInfo.cs
+C:\Users\ricar\Source\Repos\Microservico fiap\Fiap.MicroService.Autenticacao.Domain\obj\Debug\net5.0\Fiap.MicroService.Autenticacao.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Source\Repos\Microservico fiap\Fiap.MicroService.Autenticacao.Domain\obj\Debug\net5.0\Fiap.MicroService.Autenticacao.Domain.dll
+C:\Users\ricar\Source\Repos\Microservico fiap\Fiap.MicroService.Autenticacao.Domain\obj\Debug\net5.0\ref\Fiap.MicroService.Autenticacao.Domain.dll
+C:\Users\ricar\Source\Repos\Microservico fiap\Fiap.MicroService.Autenticacao.Domain\obj\Debug\net5.0\Fiap.MicroService.Autenticacao.Domain.pdb
